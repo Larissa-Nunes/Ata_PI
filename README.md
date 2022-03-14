@@ -12,7 +12,7 @@
 <p>09/03/2022 - Retro: Revisão de todos os detalhes do projeto.</p>
 <p>10/03/2022 - Planning I: Organização/Separação das tasks da Sprint II.</p>
 <p>11/03/2022 - Planning I: Organização/Separação das tasks da Sprint II.</p>
-<p>14/03/2022 - Criação de rotas para a página principal e detalhes do produto (front-end). Criação da tabela "características" no banco de dados.</p>
+<p>14/03/2022 - Criação de rotas para a página principal e detalhes do produto (front-end). Criação das tabelas de "características", "imagens", "cidades", "produtos" no banco de dados. Adição das ações criar, listar e procurar por id ao controlador do produto, Mapeamento das tabelas “cidades”, “produtos” e “imagens” com classes do nosso modelo.</p>
 
 
 
