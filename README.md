@@ -12,6 +12,7 @@
 <p>09/03/2022 - Retro: Revisão de todos os detalhes do projeto.</p>
 <p>10/03/2022 - Planning I: Organização/Separação das tasks da Sprint II.</p>
 <p>11/03/2022 - Planning I: Organização/Separação das tasks da Sprint II.</p>
+<p>14/03/2022 - Início da Sprint II.</p>
 
 
 
