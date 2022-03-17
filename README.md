@@ -15,6 +15,7 @@
 <p>14/03/2022 - Criação de rotas para a página principal e detalhes do produto (front-end). Criação das tabelas de "características", "imagens", "cidades", "produtos" no banco de dados. Adição das ações criar, listar e procurar por id ao controlador do produto, Mapeamento das tabelas “cidades”, “produtos” e “imagens” com classes do nosso modelo.</p>
 <p>15/03/2022 - Adicão do relacionamento "Muitos para muitos" entre produto e recurso, Adição do relacionamento "Um para muitos" entre o produto e as imagens, Adição do relacionamento "Muito para um" entre categoria e produto, Adição do relacionamento "Muitos para um" entre cidade e produto, Adição da lista e criação de ações para o controlador de cidades, Adição das ações criar, listar e procurar por id ao controlador do produto, Adição das ações de pesquisa por cidade ou pesquisa por categoria ao controlador de produtos.</p>
 <p>16/03/2022 - Finalização da task de implementação filtros de pesquisa na lista de produtos.</p>
+<p>17/03/2022 - Início da criação da página de detalhes do produto.</p>
 
 
 
