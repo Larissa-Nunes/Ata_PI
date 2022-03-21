@@ -16,6 +16,8 @@
 <p>15/03/2022 - Adicão do relacionamento "Muitos para muitos" entre produto e recurso, Adição do relacionamento "Um para muitos" entre o produto e as imagens, Adição do relacionamento "Muito para um" entre categoria e produto, Adição do relacionamento "Muitos para um" entre cidade e produto, Adição da lista e criação de ações para o controlador de cidades, Adição das ações criar, listar e procurar por id ao controlador do produto, Adição das ações de pesquisa por cidade ou pesquisa por categoria ao controlador de produtos.</p>
 <p>16/03/2022 - Finalização da task de implementação filtros de pesquisa na lista de produtos.</p>
 <p>17/03/2022 - Início da criação da página de detalhes do produto.</p>
+<p>21/03/2022 - Finalização da criação da página de detalhes do produto, bloco de datas disponíveis e botão de reserva, implementação do consumo de APIs no front end, tasks Testes automatizados (QA), e ajustes da parte de back-end.</p>
+
 
 
 
