@@ -17,6 +17,7 @@
 <p>16/03/2022 - Finalização da task de implementação filtros de pesquisa na lista de produtos.</p>
 <p>17/03/2022 - Início da criação da página de detalhes do produto.</p>
 <p>21/03/2022 - Finalização da criação da página de detalhes do produto, bloco de datas disponíveis e botão de reserva, implementação do consumo de APIs no front end, tasks Testes automatizados (QA), e ajustes da parte de back-end.</p>
+<p>22/03/2022 - Finalização das tasks da Sprint II.</p>
 
 
 
