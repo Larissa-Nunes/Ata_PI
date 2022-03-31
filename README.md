@@ -17,7 +17,19 @@
 <p>16/03/2022 - Finalização da task de implementação filtros de pesquisa na lista de produtos.</p>
 <p>17/03/2022 - Início da criação da página de detalhes do produto.</p>
 <p>21/03/2022 - Finalização da criação da página de detalhes do produto, bloco de datas disponíveis e botão de reserva, implementação do consumo de APIs no front end, tasks Testes automatizados (QA), e ajustes da parte de back-end.</p>
-<p>22/03/2022 - Finalização das tasks da Sprint II.</p>
+<p>22/03/2022 - Finalização das tasks da Sprint II e Review/Apresentação de todas as tasks desenvolvidas na Sprint II.</p>
+<p>23/03/2022 - Retro: Revisão de todos os detalhes do projeto.</p>
+<p>24/03/2022 - Planning I: Organização/Separação das tasks da Sprint III.</p>
+
+<p>25/03/2022 - Planning II: Organização/Separação das tasks da Sprint III.</p>
+<p>28/03/2022 - Criação da tabela "funções". "usuário" e "reservas" no banco de dados.</p>
+<p>29/03/2022 - Criação da API para registro do usuário, realização do mapeamento das tabelas "função", "usuários" e "reservas" com as classes do modelo, criação da API de reservas com JPARepository, adição da segurança token do endpoint de criação de reserva.</p>
+<p>30/03/2022 - Adição da autenticação Spring Security na API de usuários, implementação do template de tela de reserva, implementação do formulário de reserva, implementação de um calendário interativo na página de reservas, implementação do modelo de reserva bem-sucedida.</p>
+<p>31/03/2022 - Continuação da task onde é feita a autenticação Spring Security na API de usuários.</p>
+
+
+
+
 
 
 
