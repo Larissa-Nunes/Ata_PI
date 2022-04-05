@@ -27,10 +27,11 @@
 <p>30/03/2022 - Adição da autenticação Spring Security na API de usuários, implementação do template de tela de reserva, implementação do formulário de reserva, implementação de um calendário interativo na página de reservas, implementação do modelo de reserva bem-sucedida.</p>
 <p>31/03/2022 - Continuação da task onde é feita a autenticação Spring Security na API de usuários.</p>
 
-<p>01/04/2022 - Realização do deploy do projeto na AWS.</p>
+<p>01/04/2022 - Realização do deploy de back-end na AWS.</p>
 <p>02/04/2022 - Implementação de funcionalidade ao botão de reserva na página de detalhes do produto, conexão de botão "Logout" com a API de usuários, conexão do formulário de login com API do usuário, conexão do formulário de registro com API do usuário.</p>
 <p>03/04/2022 - Implementação do filtro por cidade e intervalo de datas na API de produtos, criação dos endpoints que nos permita atualizar um produto e pesquisar um produto por id na API de produtos, criação de um endpoint que permita filtrar reservas por ID do usuário na API de reservas.</p>
 <p>04/04/2022 - Desenvolvimento da implementação da pesquisa por data na página principal, testes manuais e automatizados.</p>
+<p>05/04/2022 - Implementação do envio do formulário de reserva, realização do deploy de front-end na AWS.</p>
 
 
 
