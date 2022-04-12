@@ -33,6 +33,14 @@
 <p>04/04/2022 - Desenvolvimento da implementação da pesquisa por data na página principal, testes manuais e automatizados.</p>
 <p>05/04/2022 - Implementação do envio do formulário de reserva, realização do deploy de front-end na AWS.</p>
 
+<p>06/04/2022 - Apresentação da empresa Globant para os alunos do CTD.</p>
+<p>07/04/2022 - Retro: Revisão de todos os detalhes do projeto.</p>
+<p>08/04/2022 - Planning I: Organização/Separação das tasks da Sprint IV / definição das horas de cada task.</p>
+<p>11/04/2022 - Criação dos endpoints que permitirá atualizar um produto e pesquisar um produto por id na API de produtos, criação de um endpoint que permita filtrar reservas por ID do usuário na API de reservas e criação da página "criação de produto bem-sucedida".</p>
+<p>12/04/2022 - Início da criação da página do formulário de criação do produto. </p>
+
+
+
 
 
 
